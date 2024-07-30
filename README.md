@@ -47,9 +47,9 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 You can take a look at my blog [here](https://vanztechblog.onrender.com/)
 
 ## Visual reference of project
-The following video demonstrates the app's appearance:
+The following image demonstrates the app's appearance:
   
-[![video thumbnail](./assets/video-thumbnail.png)](https://drive.google.com/file/d/1tj1n1OohzwAU4OaQwKlhxtV3q8vkVfpc/view?usp=drive_link)
+![gif reference](./assets/image-reference.gif)
 
 ## License
 ![GitHub](https://img.shields.io/github/license/VanZittle/VanZTechBlog?style=for-the-badge)<br> Go to license [here](https://github.com/VanZittle/VanZTechBlog/blob/main/LICENSE)
