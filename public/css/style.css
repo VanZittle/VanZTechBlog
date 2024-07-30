@@ -1,4 +1,4 @@
-header, .project:not(:last-child) {
+header, .post:not(:last-child) {
   border-bottom: .5px solid #cccccc4d;
 }
 
@@ -7,14 +7,13 @@ header, .project:not(:last-child) {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b89bc;
+  color: #034AA6;
   text-decoration: none;
   font-size: 100%;
 }
 
 .no-button:hover {
-  color: #065b83;
-  text-decoration: underline;
+  color: #3169b4;
 }
 
 .dollar-amount {
